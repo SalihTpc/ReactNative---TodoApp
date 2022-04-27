@@ -55,8 +55,6 @@ export const appStyles = StyleSheet.create({
     backgroundColor: 'red',
     borderRadius: 10,
     padding: 6,
-    // alignItems: 'center',
-    // justifyContent: 'center',
   },
   delText: {
     color: 'white',
